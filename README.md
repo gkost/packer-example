@@ -22,3 +22,5 @@ The end result will be output machine templates that run a basic Ubuntu 12.04 LT
 also download the preseed cfg file and host it on a 'local' web server.
 
 This project was originally created with Packer v. 0.4.1
+
+A little bit of information - added!!!
